@@ -82,7 +82,7 @@ public class LoginTest {
     public void testCheckCellPhoneNumberIncorrect() {
 
         Login login = new Login(
-                "Dikeledi",
+                "Dikeled",
                 "Molokomme",
                 "Dkl_1",
                 "Ch&&sec@ke99!",
