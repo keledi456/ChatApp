@@ -6,7 +6,7 @@ package chatapp;
 
 /**
  *
- * @author Dikeledi Molokomme
+ * @author Dikeledi Molo
  */
 public class ChatApp {
 
