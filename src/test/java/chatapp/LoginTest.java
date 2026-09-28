@@ -47,7 +47,7 @@ public class LoginTest {
                 "+27719632234"
         );
 
-        assertTrue(.checkPasswordComplexity());
+        assertTrue(login.checkPasswordComplexity());
     }
 
     @Test
